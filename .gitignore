@@ -103,3 +103,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+.vs/
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
